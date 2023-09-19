@@ -71,7 +71,7 @@ body {
 .hero_card{
     position: absolute;
     top: 30%;
-    left: 10%;
+    left: 13%;
     text-align: center;
     display: flex;
     flex-direction: column;
